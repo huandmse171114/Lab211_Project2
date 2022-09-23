@@ -6,7 +6,6 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
-import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -17,8 +16,7 @@ public class Utils {
     private static final Scanner sc = new Scanner(System.in);
     
     public static boolean validStr(String str, String regEx) {
-        
-        
+        return false;
     }
     
     public static boolean validPassword(String str, int minLen) {

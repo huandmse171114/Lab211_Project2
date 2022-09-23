@@ -18,5 +18,7 @@ public class LogInController {
     }
     
     
-    
+    public void HuanNGU(){
+        System.out.println("Huan Ngu Ngok DaM DAng");
+    }
 }
