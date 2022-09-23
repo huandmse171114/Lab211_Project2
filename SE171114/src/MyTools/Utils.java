@@ -18,6 +18,7 @@ public class Utils {
     
     public static boolean validStr(String str, String regEx) {
         
+        
     }
     
     public static boolean validPassword(String str, int minLen) {
